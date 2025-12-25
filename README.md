@@ -12,3 +12,6 @@ Hulusi Note Expansion:
 
 Here is an example using HulusiTraditional:
 [HulusiTraditionalExample (1).mp3](https://github.com/user-attachments/files/24339825/HulusiTraditionalExample.1.mp3)
+
+Github Repo for direct downloads:
+https://github.com/PophamsAAA/pophamsaaa.github.io
