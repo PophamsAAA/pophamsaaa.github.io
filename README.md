@@ -4,7 +4,7 @@
 <p>Hulusi Traditional:</p>
 <p><a href="url">https://downgit.github.io/#/home?url=https://github.com/PophamsAAA/pophamsaaa.github.io/blob/main/HulusiTraditional.sf2</a></p>
 <p>Hulusi Note Expansion:</p>
-<p><a href="url">https://downgit.github.io/#/home?url=https://github.com/PophamsAAA/pophamsaaa.github.io/blob/main/HulusiNoteRangeExpansion-1.sf2](https://github.com/PophamsAAA/pophamsaaa.github.io/blob/main/HulusiNoteRangeExpansion-1.sf2</a></p>
+<p><a href="url">https://github.com/PophamsAAA/pophamsaaa.github.io/blob/main/HulusiNoteRangeExpansion-1.sf2</a></p>
 
 <p>Click the audio player for an example:</p>
 <audio controls autoplay>
