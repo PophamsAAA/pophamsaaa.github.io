@@ -9,3 +9,6 @@ Hulusi Traditional:
 Hulusi Note Expansion:
 
 [https://downgit.github.io/#/home?url=https://github.com/PophamsAAA/pophamsaaa.github.io/blob/main/HulusiNoteRangeExpansion-1.sf2](url)
+
+Here is an example using HulusiTraditional:
+[HulusiTraditionalExample (1).mp3](https://github.com/user-attachments/files/24339825/HulusiTraditionalExample.1.mp3)
